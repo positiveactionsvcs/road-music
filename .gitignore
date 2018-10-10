@@ -1,0 +1,14 @@
+﻿.vs/
+bin/
+obj/
+TestResults/
+packages/
+*.user
+*.suo
+*.dbmdl
+*.jfm
+*.Publish.xml
+Thumbs.db
+.DS_Store
+BrandTV.UI.Web/Assets/
+BrandTV.UI.WebClient/Assets/
