@@ -146,8 +146,8 @@
     <EmbeddedResource Include="Resources\Delete.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Common\Positive.TunesParser\Positive.TunesParser.csproj">
-      <Project>{E333C2E6-CA45-441A-A208-6BF6017740B8}</Project>
+    <ProjectReference Include="..\Positive.TunesParser\Positive.TunesParser.csproj">
+      <Project>{e333c2e6-ca45-441a-a208-6bf6017740b8}</Project>
       <Name>Positive.TunesParser</Name>
     </ProjectReference>
     <ProjectReference Include="..\RoadMusic.ClassLibrary\RoadMusic.ClassLibrary.csproj">

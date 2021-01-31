@@ -77,7 +77,7 @@ namespace RoadMusic.ClassLibrary.Utility
             get
             {
                 RegistryKey keyReg = Registry.CurrentUser.CreateSubKey(_softwareKey);
-                int returnValue = default(int);
+                int returnValue = default;
 
                 if (keyReg != null)
                 {
@@ -129,7 +129,7 @@ namespace RoadMusic.ClassLibrary.Utility
             get
             {
                 RegistryKey keyReg = Registry.CurrentUser.CreateSubKey(_softwareKey);
-                int returnValue = default(int);
+                int returnValue = default;
 
                 if (keyReg != null)
                 {
@@ -181,7 +181,7 @@ namespace RoadMusic.ClassLibrary.Utility
             get
             {
                 RegistryKey keyReg = Registry.CurrentUser.CreateSubKey(_softwareKey);
-                int returnValue = default(int);
+                int returnValue = default;
 
                 if (keyReg != null)
                 {
@@ -233,7 +233,7 @@ namespace RoadMusic.ClassLibrary.Utility
             get
             {
                 RegistryKey keyReg = Registry.CurrentUser.CreateSubKey(_softwareKey);
-                int returnValue = default(int);
+                int returnValue = default;
  
                 if (keyReg != null)
                 {

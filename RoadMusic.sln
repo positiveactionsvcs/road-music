@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Positive.TunesParser", "..\Common\Positive.TunesParser\Positive.TunesParser.csproj", "{E333C2E6-CA45-441A-A208-6BF6017740B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Positive.TunesParser", "Positive.TunesParser\Positive.TunesParser.csproj", "{E333C2E6-CA45-441A-A208-6BF6017740B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadMusic.ClassLibrary", "RoadMusic.ClassLibrary\RoadMusic.ClassLibrary.csproj", "{42D97197-495F-43B8-8ADC-DFC4F4A2E1F3}"
 EndProject
